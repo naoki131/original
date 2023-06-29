@@ -28,6 +28,11 @@
 </head>
 <div class="text-center m-5" >
     <h1>ログインフォーム</h1>
+    @if(session('login_error'))
+            <div class="alert alert-success">
+                {{session('login_error')}}
+            </div>
+    @endif
     <form method="post" action="{{route('login')}}">
         @csrf
         <div class="mb-3">

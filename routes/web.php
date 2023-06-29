@@ -17,7 +17,20 @@ use App\Http\Controllers\Auth\AuthController;
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/top',[TopController::class ,'topShow'])->name('top');
+//ミドルウエア
+Route::group(['middleware' =>['guest']],function(){
+    //top画面
+    Route::get('/top',[TopController::class ,'topShow'])->name('top');
+    //ログイン画面の出力
+    Route::get('/login',[AuthController::class,'showLogin'])->name('showLogin');
+    //ログインする
+    Route::post('/login',[AuthController::class,'login'])->name('login');
+    
+});
+Route::group(['middleware' =>['auth']],function(){
+    //ホーム画面の作成
+    Route::get('/home',function(){
+        return view('home');
+    })->name('home');
 
-Route::get('/a',[AuthController::class,'showLogin'])->name('showLogin');
-Route::post('/login',[AuthController::class,'login'])->name('login');
+});
