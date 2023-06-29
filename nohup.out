@@ -288,3 +288,314 @@ failed to load config from /home/naoki/src/github.com/rpentryfy23/rensyu/origina
   LARAVEL v10.14.1  plugin v0.7.8
 
   ➜  APP_URL: http://localhost
+16:18:54 [vite] page reload resources/views/login/login_form.blade.php
+16:21:34 [vite] page reload resources/views/login/login_form.blade.php
+16:21:47 [vite] page reload routes/web.php
+16:22:28 [vite] page reload resources/views/top.blade.php
+16:22:38 [vite] page reload resources/views/top.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:22:32 ................................................... ~ 9s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:22:41 ................................................... ~ 1s
+  2023-06-29 16:22:42 .................................................. ~ 20s
+16:25:58 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:26:01 ................................................... ~ 0s
+  2023-06-29 16:26:01 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:26:04 ................................................... ~ 0s
+16:28:35 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:28:35 ................................................... ~ 0s
+  2023-06-29 16:28:35 ................................................... ~ 2s
+16:28:49 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:28:49 ................................................... ~ 0s
+  2023-06-29 16:28:49 ................................................... ~ 8s
+16:29:25 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:29:25 ................................................... ~ 0s
+  2023-06-29 16:29:25 .................................................. ~ 27s
+16:31:51 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:31:51 ................................................... ~ 0s
+  2023-06-29 16:31:51 .................................................. ~ 27s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:33:23 ................................................... ~ 0s
+  2023-06-29 16:33:23 .................................................. ~ 10s
+
+> dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.3.9  ready in 165 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:33:49 ................................................... ~ 0s
+  2023-06-29 16:33:49 ................................................... ~ 9s
+16:40:33 [vite] page reload resources/views/login/login_form.blade.php
+16:40:33 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:40:33 ................................................... ~ 0s
+  2023-06-29 16:40:33 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:40:39 ................................................... ~ 0s
+  2023-06-29 16:40:39 ................................................... ~ 4s
+16:40:54 [vite] page reload resources/views/login/login_form.blade.php
+16:40:54 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:40:54 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:40:54 ................................................... ~ 5s
+  2023-06-29 16:40:59 ................................................... ~ 5s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:02 ................................................... ~ 1s
+  2023-06-29 16:44:02 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:07 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:07 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:08 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:08 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:08 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:08 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:09 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:44:09 ................................................... ~ 0s
+16:49:03 [vite] page reload resources/views/login/login_form.blade.php
+16:49:03 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:49:03 ................................................... ~ 0s
+  2023-06-29 16:49:03 ................................................... ~ 6s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:49:09 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:49:09 ................................................... ~ 0s
+16:49:30 [vite] page reload resources/views/login/login_form.blade.php
+16:49:30 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:49:30 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:49:30 ................................................... ~ 4s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:49:34 ................................................... ~ 0s
+16:49:56 [vite] page reload resources/views/login/login_form.blade.php
+16:49:56 [vite] page reload resources/views/login/login_form.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:49:56 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:49:56 ................................................... ~ 7s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:50:03 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:57:23 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:57:23 ................................................... ~ 6s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:57:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 16:58:48 ................................................... ~ 0s
