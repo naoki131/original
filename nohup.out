@@ -1,0 +1,277 @@
+
+> dev
+> vite
+
+
+  VITE v4.3.9  ready in 151 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 13:28:12 ................................................... ~ 3s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 13:28:12 ................................................... ~ 5s
+  2023-06-29 13:28:17 ................................................... ~ 0s
+14:10:00 [vite] page reload resources/views/components/header.blade.php
+14:10:06 [vite] page reload resources/views/components/footer.blade.php
+14:17:12 [vite] page reload resources/views/top.blade.php
+14:18:25 [vite] page reload resources/views/top.blade.php
+14:19:06 [vite] page reload resources/views/welcome.blade.php
+14:25:15 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:25:21 ................................................... ~ 1s
+  2023-06-29 14:25:21 .................................................. ~ 50s
+14:26:40 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:26:45 ................................................... ~ 0s
+14:27:11 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:26:45 .................................................. ~ 28s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:27:13 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:27:13 ................................................... ~ 3s
+  2023-06-29 14:27:16 .................................................. ~ 15s
+14:28:46 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:28:58 ................................................... ~ 0s
+  2023-06-29 14:28:58 .................................................. ~ 43s
+14:29:48 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:29:52 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:29:52 ................................................... ~ 2s
+  2023-06-29 14:29:54 .................................................. ~ 42s
+14:33:20 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:33:25 ................................................... ~ 1s
+  2023-06-29 14:33:26 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:33:30 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:33:30 ................................................... ~ 1s
+  2023-06-29 14:33:31 ................................................... ~ 6s
+14:35:57 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:36:02 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:36:02 ................................................... ~ 3s
+14:37:08 [vite] page reload resources/views/welcome.blade.php
+  2023-06-29 14:36:05 .................................................. ~ 67s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:37:12 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:37:12 ................................................... ~ 2s
+  2023-06-29 14:37:14 .................................................. ~ 13s
+14:38:19 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:38:26 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:38:26 ................................................... ~ 4s
+  2023-06-29 14:38:30 ................................................... ~ 7s
+14:39:23 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:39:29 ................................................... ~ 0s
+14:41:07 [vite] .env changed, restarting server...
+
+   INFO  Environment modified. Restarting server...  
+
+14:41:08 [vite] server restarted.
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
+14:41:47 [vite] .env changed, restarting server...
+14:41:47 [vite] server restarted.
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
+
+   INFO  Environment modified. Restarting server...  
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+14:44:34 [vite] page reload routes/web.php
+14:44:59 [vite] page reload routes/web.php
+14:45:18 [vite] page reload resources/views/welcome.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:45:24 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:45:25 ................................................... ~ 0s
+14:46:26 [vite] page reload resources/views/top.blade.php
+14:46:35 [vite] page reload resources/views/top.blade.php
+  2023-06-29 14:45:25 .................................................. ~ 81s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 14:46:46 ................................................... ~ 0s
+  2023-06-29 14:46:46 ................................................... ~ 7s
+15:00:52 [vite] vite.config.js changed, restarting server...
+failed to load config from /home/naoki/src/github.com/rpentryfy23/rensyu/original/vite.config.js
+15:00:53 [vite] Cannot find package 'vite' imported from /home/naoki/src/github.com/rpentryfy23/rensyu/original/vite.config.js.timestamp-1688018452963-543272c845016.mjs
+15:00:53 [vite] server restart failed
+  2023-06-29 15:00:59 ................................................... ~ 0s
+  2023-06-29 15:00:59 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:01 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:01 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:01 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:02 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:02 ................................................... ~ 6s
+  2023-06-29 15:01:08 ................................................... ~ 1s
+15:01:14 [vite] page reload resources/views/top.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:52 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:52 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:54 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-06-29 15:01:54 ................................................... ~ 1s
+  2023-06-29 15:01:55 ................................................... ~ 5s
+15:06:37 [vite] .env changed, restarting server...
+
+   INFO  Environment modified. Restarting server...  
+
+15:06:37 [vite] server restarted.
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
