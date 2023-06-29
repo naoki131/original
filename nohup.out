@@ -275,3 +275,16 @@ failed to load config from /home/naoki/src/github.com/rpentryfy23/rensyu/origina
 
   Press Ctrl+C to stop the server
 
+
+15:42:56 [vite] .env changed, restarting server...
+   INFO  Environment modified. Restarting server...  
+
+15:42:57 [vite] server restarted.
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
