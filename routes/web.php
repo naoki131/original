@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\TopController;
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\Auth\AuthController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -18,3 +18,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/top',[TopController::class ,'topShow'])->name('top');
+
+Route::get('/a',[AuthController::class,'showLogin'])->name('showLogin');
+Route::post('/login',[AuthController::class,'login'])->name('login');
