@@ -37,5 +37,10 @@ Route::group(['middleware' =>['auth']],function(){
     Route::get('/home',function(){
         return view('home');
     })->name('home');
+    //ログアウトする
     Route::post('/logout',[AuthController::class,'logout'])->name('logout');
+    //マイページの情報画面
+
+    //マイページの情報を変更する
+
 });

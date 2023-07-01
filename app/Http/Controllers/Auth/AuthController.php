@@ -7,6 +7,7 @@ use App\Http\Requests\LoginFormRequest;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Models\User;
+use App\Http\Requests\RegisterRequest;
 
 class AuthController extends Controller
 {
@@ -21,6 +22,7 @@ class AuthController extends Controller
     //ログイン機能
     public function login(LoginFormRequest $request)
     {
+      
         $credentials = $request->only('email', 'password');
         if (Auth::attempt($credentials)) {
             $request->session()->regenerate();
@@ -47,7 +49,9 @@ class AuthController extends Controller
         session()->put('aa', Auth::check());
         return view('login.register');
     }
-    public function register(LoginFormRequest $request)
+
+    //新規登録処理
+    public function register(RegisterRequest $request)
     {
         //既にメールアドレスを使われているかの判断
         $check = User::where('email', $request->input('email'))->count();

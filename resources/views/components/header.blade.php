@@ -16,6 +16,7 @@
         <li class="nav-item"><form action="{{route('logout')}}" method="post">
             @csrf
             <button>ログアウト</button>
+        <li class="nav-item"><a href="#" class="nav-link link-dark px-2">マイページ</a></li>
         @endif
         </form></li>
       </ul>
