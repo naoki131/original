@@ -25,6 +25,7 @@ class LoginFormRequest extends FormRequest
         return [
             'email' => 'required|max:255',
             'password' => 'required',
+            'name' => 'required',
         ];
     }
     //validation message
