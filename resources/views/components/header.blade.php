@@ -9,11 +9,15 @@
         <li class="nav-item"><a href="#" class="nav-link link-dark px-2">About</a></li>
       </ul>
       <ul class="nav">
+        @if(!Auth::check())
         <li class="nav-item"><a href="{{route('showLogin')}}" class="nav-link link-dark px-2">Login</a></li>
-        <li class="nav-item"><a href="#" class="nav-link link-dark px-2">Sign up</a></li>
+        <li class="nav-item"><a href="{{route('register')}}" class="nav-link link-dark px-2">Sign up</a></li>
+        @else
         <li class="nav-item"><form action="{{route('logout')}}" method="post">
             @csrf
             <button>ログアウト</button>
+        <li class="nav-item"><a href="#" class="nav-link link-dark px-2">マイページ</a></li>
+        @endif
         </form></li>
       </ul>
     </div>
