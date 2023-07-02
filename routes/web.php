@@ -3,6 +3,8 @@
 use App\Http\Controllers\TopController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\AuthController;
+use App\Http\Controllers\MypageController;
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -40,7 +42,12 @@ Route::group(['middleware' =>['auth']],function(){
     //ログアウトする
     Route::post('/logout',[AuthController::class,'logout'])->name('logout');
     //マイページの情報画面
-
+    Route::get('mypage/profile',[MypageController::class ,'showMypage'])->name('showProfile');
     //マイページの情報を変更する
+    Route::post('mypage/profileEdit',[MypageController::class,'profileEdit'])->name('editProfile');
 
+        //パスワードの変更画面
+        Route::get('mypage/password',[MypageController::class ,'showPassword'])->name('showPassword');
+        //パスワードを変更する
+        Route::post('mypage/password',[MypageController::class,'editPassword'])->name('editPassword');
 });
