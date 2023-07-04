@@ -11,6 +11,7 @@
             <ul>
                 <li>名前:{{Auth::user()->name}}</li>
                 <li>メールアドレス:{{Auth::user()->email}}</li>
+                <li><a href="{{route('showSugoroku')}}">すごろくをする</a></li>
             </ul>
         </div>
 

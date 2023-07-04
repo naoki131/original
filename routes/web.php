@@ -4,6 +4,7 @@ use App\Http\Controllers\TopController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\Auth\AuthController;
 use App\Http\Controllers\MypageController;
+use App\Http\Controllers\SugorokuController;
 
 /*
 |--------------------------------------------------------------------------
@@ -51,3 +52,16 @@ Route::group(['middleware' =>['auth']],function(){
         //パスワードを変更する
         Route::post('mypage/password',[MypageController::class,'editPassword'])->name('editPassword');
 });
+//すごろく画面へ
+Route::get('/sugoroku',[SugorokuController::class,'showSugoroku'])->name('showSugoroku');
+//すごろくの登場人物を登録する
+Route::post('/sugoroku',[SugorokuController::class,'registerMember'])->name('registerMember');
+//すごろくマスの作成
+Route::post('/registerSpace',[SugorokuController::class,'registerSpace'])->name('registerSpace');
+
+
+
+//すごろくマップ
+Route::get('/sugoroku/map/{preservationId}',[SugorokuController::class,'showMap'])->name('showMap');
+//サイコロを回す
+Route::post('/sugoroku/map/{preservationId}',[SugorokuController::class,'roleDice'])->name('roleDice');
