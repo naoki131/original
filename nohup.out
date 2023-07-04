@@ -608,3 +608,2111 @@ Port 5173 is in use, trying another one...
 
   2023-06-29 16:59:18 ................................................... ~ 0s
   2023-06-29 16:59:18 .................................................. ~ 10s
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+
+   INFO  Server running on [http://127.0.0.1:8000].  
+
+  Press Ctrl+C to stop the server
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:09 ................................................... ~ 1s
+  2023-07-03 15:59:10 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:10 /favicon.ico ...................................... ~ 0s
+
+> dev
+> vite
+
+
+  VITE v4.3.9  ready in 293 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:36 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:36 ................................................... ~ 3s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:39 ................................................... ~ 3s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:42 ................................................... ~ 1s
+  2023-07-03 15:59:43 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:45 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:46 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 15:59:47 ................................................... ~ 4s
+  2023-07-03 15:59:51 ................................................... ~ 3s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:04 ................................................... ~ 0s
+  2023-07-03 16:00:04 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:06 /favicon.ico ...................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:17 ................................................... ~ 4s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:17 ................................................... ~ 4s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:31 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:31 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:40 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:41 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:49 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:49 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:53 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:53 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:58 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:00:58 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:00 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:00 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:04 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:04 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:08 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:08 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:11 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:11 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:15 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:15 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:19 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:19 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:22 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:22 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:32 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:32 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:34 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:34 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:36 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:36 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:38 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:38 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:40 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:40 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:44 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:44 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:47 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:47 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:49 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:49 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:59 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:01:59 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:02:14 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:02:14 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:02:15 ................................................... ~ 0s
+  2023-07-03 16:02:15 ................................................. ~ 125s
+  2023-07-03 16:04:20 ................................................. ~ 206s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:07:46 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:07:46 ................................................... ~ 4s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:07:50 .................................................. ~ 30s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:20 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:24 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:24 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:28 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:28 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:31 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:31 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:36 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:36 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:39 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:39 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:44 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:44 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:47 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:47 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:51 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:51 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:56 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:56 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:57 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:08:57 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:00 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:00 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:05 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:05 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:07 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:07 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:09 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:09 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:16 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:16 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:19 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:19 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:21 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:21 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:24 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:24 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:27 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:27 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:38 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:38 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:42 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:42 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:43 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:43 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:50 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:50 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:53 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:53 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:56 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:09:56 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:02 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:02 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:05 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:05 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:08 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:08 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:15 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:15 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:18 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:18 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:21 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:21 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:23 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:23 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:25 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:25 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:27 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:27 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:29 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:10:31 ................................................... ~ 0s
+  2023-07-03 16:10:31 .................................................. ~ 91s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:14:01 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:14:01 ................................................... ~ 5s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:14:06 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:14:06 .................................................. ~ 10s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:14:16 ................................................... ~ 4s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 16:14:20 ................................................... ~ 0s
+  2023-07-03 16:14:24 ................................................... ~ 7s
+  2023-07-03 17:10:00 .................................................. ~ 41s
+  2023-07-03 17:10:00 .................................................. ~ 41s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:19:04 ................................................... ~ 1s
+  2023-07-03 17:19:04 .................................................. ~ 43s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:01 ................................................... ~ 0s
+  2023-07-03 17:46:01 ................................................... ~ 3s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:12 ................................................... ~ 1s
+  2023-07-03 17:46:13 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:15 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:15 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:19 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:20 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:22 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:24 ................................................... ~ 0s
+  2023-07-03 17:46:32 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:35 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:35 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:36 ................................................... ~ 5s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:40 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:42 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:46:53 ................................................... ~ 0s
+  2023-07-03 17:46:53 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:07 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:07 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:12 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:12 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:18 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:18 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:24 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:24 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:27 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:27 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:30 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:30 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:32 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:32 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:34 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:34 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:37 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:37 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:41 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:41 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:43 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:43 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:44 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:44 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:45 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:45 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:47 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:47 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:48 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:48 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:49 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:49 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:51 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:51 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:54 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:54 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:57 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:47:57 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:00 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:00 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:04 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:04 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:06 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:06 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:11 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:12 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:13 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:13 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:19 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:19 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:21 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:21 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:22 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:22 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:23 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:23 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:24 ................................................... ~ 0s
+  2023-07-03 17:48:24 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:25 ................................................... ~ 3s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:48:28 ................................................... ~ 1s
+  2023-07-03 17:48:29 ................................................... ~ 5s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:49:52 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:49:52 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:49:54 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:49:54 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:49:56 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:49:56 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:49:57 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:49:57 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:02 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:02 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:04 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:04 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:05 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:05 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:05 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:05 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:06 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:06 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:07 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:07 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:08 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:50:08 ................................................... ~ 2s
+  2023-07-03 17:50:10 ................................................... ~ 4s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:52:30 ................................................... ~ 0s
+  2023-07-03 17:52:30 ................................................... ~ 5s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:52:36 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-03 17:52:36 ................................................... ~ 0s
+  2023-07-03 21:28:38 ................................................... ~ 0s
+  2023-07-03 21:28:38 ................................................... ~ 0s
+Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+
+   WARN  Failed to listen on 127.0.0.1:8000 (reason: Address already in use).  
+
+   INFO  Server running on [http://127.0.0.1:8001].  
+
+  Press Ctrl+C to stop the server
+
+
+> dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.3.9  ready in 294 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
+
+> dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.3.9  ready in 182 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+
+  LARAVEL v10.14.1  plugin v0.7.8
+
+  ➜  APP_URL: http://localhost
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 16:32:54 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 16:32:54 ................................................... ~ 3s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 16:33:05 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 16:33:06 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 16:33:08 ................................................... ~ 6s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 16:33:14 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 16:33:18 ................................................... ~ 0s
+  2023-07-04 16:33:18 .................................................. ~ 94s
+17:11:26 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 17:11:26 ................................................... ~ 0s
+  2023-07-04 17:11:26 .................................................. ~ 77s
+17:29:02 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 17:29:02 ................................................... ~ 0s
+  2023-07-04 17:29:02 ................................................... ~ 3s
+17:29:30 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 17:29:30 ................................................... ~ 0s
+  2023-07-04 17:29:30 .................................................. ~ 15s
+17:32:02 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 17:32:02 ................................................... ~ 0s
+  2023-07-04 17:32:02 ................................................. ~ 106s
+17:34:30 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 17:34:30 ................................................... ~ 0s
+  2023-07-04 17:34:30 ................................................... ~ 5s
+18:07:20 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:07:20 ................................................... ~ 1s
+  2023-07-04 18:07:21 .................................................. ~ 89s
+18:10:52 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:10:52 ................................................... ~ 0s
+  2023-07-04 18:10:52 .................................................. ~ 27s
+18:36:22 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:36:22 ................................................... ~ 0s
+18:37:46 [vite] page reload resources/views/sugoroku/start.blade.php
+  2023-07-04 18:36:22 .................................................. ~ 84s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:37:46 ................................................... ~ 0s
+  2023-07-04 18:37:46 .................................................. ~ 91s
+18:42:32 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:42:32 ................................................... ~ 0s
+  2023-07-04 18:42:32 .................................................. ~ 80s
+18:46:05 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:46:05 ................................................... ~ 0s
+18:46:22 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:46:05 .................................................. ~ 17s
+18:46:44 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:46:22 .................................................. ~ 22s
+18:47:32 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:46:44 .................................................. ~ 48s
+18:47:40 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:47:32 ................................................... ~ 9s
+  2023-07-04 18:47:41 ................................................... ~ 7s
+18:48:16 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:48:16 ................................................... ~ 0s
+18:48:25 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:48:16 ................................................... ~ 9s
+18:48:25 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:48:25 ................................................... ~ 0s
+  2023-07-04 18:48:25 .................................................. ~ 18s
+18:49:01 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:49:01 ................................................... ~ 0s
+  2023-07-04 18:49:01 ................................................... ~ 2s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:51:01 ................................................... ~ 1s
+  2023-07-04 18:51:01 ................................................... ~ 7s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 18:56:32 ................................................... ~ 2s
+  2023-07-04 18:56:32 ................................................... ~ 5s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 19:46:02 ................................................... ~ 0s
+  2023-07-04 19:46:02 ................................................... ~ 4s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 19:57:01 ................................................... ~ 0s
+  2023-07-04 19:57:01 ................................................... ~ 4s
+20:02:13 [vite] page reload routes/web.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 20:02:13 ................................................... ~ 0s
+  2023-07-04 20:02:13 .................................................. ~ 78s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 20:11:21 ................................................... ~ 1s
+  2023-07-04 20:11:21 ................................................... ~ 5s
+20:13:34 [vite] page reload resources/views/sugoroku/start.blade.php
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 20:13:35 ................................................... ~ 0s
+  2023-07-04 20:13:35 ................................................... ~ 1s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 20:16:10 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 20:16:10 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 20:22:29 ................................................... ~ 0s
+  2023-07-04 20:22:29 .................................................. ~ 71s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 20:23:40 ................................................... ~ 0s
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+   WARN  Xdebug: [Step Debug.  
+
+  2023-07-04 20:23:40 ................................................... ~ 0s
+  2023-07-04 20:29:52 .................................................. ~ 69s
